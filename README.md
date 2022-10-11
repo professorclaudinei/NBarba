@@ -1,0 +1,2 @@
+# Nova-Barbearia
+Modelo completo
