@@ -1,2 +1,1 @@
-# Nova-Barbearia
-Modelo completo
+# Novo Site
